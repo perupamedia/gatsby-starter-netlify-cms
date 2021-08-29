@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Kamus Hukum',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Kamus hukum menyediakan arti dan istilah hukum untuk lebih mudah dipelajari saat belajar hukum, kursus hukum dan pelatihan hukum',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
