@@ -3,6 +3,7 @@ module.exports = {
     title: 'Kamus Hukum',
     description:
       'Kamus hukum menyediakan arti dan istilah hukum untuk lebih mudah dipelajari saat belajar hukum, kursus hukum dan pelatihan hukum',
+    google-site-verification: 'K-i3xLkZzxse8osTQPjkPbsIkUU2U89_zK4tKJ_8TGQ', 
   },
   plugins: [
     'gatsby-plugin-react-helmet',
